@@ -1,0 +1,13 @@
+10
+          + + + + +
+          +       +
+. . . . . . . .   +
+. . . . . . . .   +
+. . G . . @ . .   +
+. . . . . . . .   +
+. . . . . . . .   +
+          +       +
+          +       +
+          + + + + +
+
+Monster can force a win by going E, but not NE or SE

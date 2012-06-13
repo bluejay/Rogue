@@ -1,0 +1,11 @@
+6
+           
+        @  
+        +  
+. . . . +  
+R . . . + +
+        + +
+
+Monster will win against an optimal Rogue only if it
+approaches the corridor while keeping on the bottom row.
+(by Joshua Hieronymus)

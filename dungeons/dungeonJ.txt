@@ -1,0 +1,14 @@
+10
+. . . . . . .      
+. . . . . . .      
+. . . . . @ .      
+. . . . . . . + + +
+. . . . . . .     +
+. . . . . . . + + +
+. . . . . . J      
+. . . . . . .      
+. . . . . . .      
+. . . . . . .      
+
+Rogue can survive indefinitely, but optimal strategy requires
+moving toward the monster in the first step.

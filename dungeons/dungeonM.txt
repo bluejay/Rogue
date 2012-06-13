@@ -1,0 +1,13 @@
+10
+. . . . .          
+. . . . .           
+. . M . .            
+. . . . .            
+                   
+        . . . . . .
+        . . . . . .
+        . . . . @ .
+        . . . . . .
+        . . . . . .
+
+Disconnected rooms, rogue can survive indefinitely

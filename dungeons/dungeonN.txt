@@ -1,0 +1,15 @@
+10
+. . . . . . . . . +
+. . . . . . . . .  
+. . N . . . . . .  
+. . . . @ . . . .  
+. . . . . . . . .  
+. . . . . . . . .  
+. . . . . . . . .  
+. . . . . . . . .  
+. . . . . . . . .  
+. . . . . . . . . +
+
+monster can trap rogue into a corner. Rogue should run to NE corner to
+last until monster's 7th move (as opposed to 6 for SE). This assumes
+monster's first move is SE.

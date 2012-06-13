@@ -1,0 +1,16 @@
+10
+. . . . . . .      
+. . . . . . .      
+. . Q . . . .      
+. . . . . . .      
+. . . . @ . .      
+. . . . . . .      
+. . . . . . .      
+. . . . . . .      
+. . . . . . . +    
+            + . . .
+
+Rogue can infinitely evade using the cycle consisting
+of two corridor sites and two room sites.
+(by Vaclav Cvicek)
+

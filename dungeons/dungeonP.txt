@@ -1,0 +1,14 @@
+10
+. . . .       . . .
+. . . .       . . .
+. . . .   + + @ . .
+. . . .   + +      
++       . . .      
++ + + + P . . + + +
++       . . .     +
++         +       +
+. . . . . . . . . .
+. . . . . . . . . .
+
+Rogue can last indefinitely, but the only way to do so may
+require staying still for one move.
